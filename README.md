@@ -1,0 +1,1 @@
+Reserved for Internal Usage, a variation without ctypes.
